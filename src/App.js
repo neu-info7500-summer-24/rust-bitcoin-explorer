@@ -7,9 +7,7 @@ import TransactionList from './components/TransactionList/TransactionList';
 import Charts from './components/Charts/Charts';
 
 function App() {
-  console.log("App loaded");
   return (
-    // <div>Hello</div>
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
