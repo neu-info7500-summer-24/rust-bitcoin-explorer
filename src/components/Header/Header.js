@@ -16,7 +16,7 @@ function Header() {
                 <ul className='right-nav'>
                     <Link to="/blocks"><li>Blocks</li></Link>
                     <Link to="/transactions"><li>Transactions</li></Link>
-                    <Link to="/explorer"><button>Explorer</button></Link>
+                    <Link to="/charts"><li>Charts</li></Link>
                 </ul>
             </nav>
         </div>

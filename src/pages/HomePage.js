@@ -10,10 +10,10 @@ function HomePage() {
   return (
     <div>
       <Header />
-      <SearchBar />
+      {/* <SearchBar />
       <Charts />
       <BlockList />
-      <TransactionList />
+      <TransactionList /> */}
     </div>
   );
 }
