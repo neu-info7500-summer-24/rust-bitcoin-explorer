@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from '../Header/Header';
 
 function BlockList() {
   console.log("Header loaded");
   return (
-   <div></div>
+    <Header />
   );
 }
 
