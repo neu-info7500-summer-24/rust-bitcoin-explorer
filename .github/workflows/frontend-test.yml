@@ -32,9 +32,9 @@ jobs:
         cd frontend
         npm run build
 
-    - name: Wait for Server to be Ready
-      run: |
-        npx wait-on http://localhost:3000
+    # - name: Wait for Server to be Ready
+    #   run: |
+    #     npx wait-on http://localhost:3000
 
     - name: Install Playwright Browsers
       run: |
