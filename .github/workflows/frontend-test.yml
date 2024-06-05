@@ -97,7 +97,7 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: babuaravind/rust_docker:latest
+        tags: aravind33b/rust_explorer:latest
 
     # - name: Deploy to hosting service
     #   env:
