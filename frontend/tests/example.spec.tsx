@@ -19,6 +19,6 @@ const { test, expect } = require('@playwright/test');
 // });
 
 test('should display the homepage', async ({ page }) => {
-  await page.goto('http://192.168.0.45:3000/');
+  await page.goto('http://localhost:3000/');
   await expect(page).toHaveTitle(/NUBEX/);
 });
