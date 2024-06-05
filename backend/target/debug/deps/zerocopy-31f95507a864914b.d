@@ -1,0 +1,13 @@
+/Users/aravind/crypto-summer-2024/bitcoin-explorer-backend/target/debug/deps/libzerocopy-31f95507a864914b.rmeta: /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs
+
+/Users/aravind/crypto-summer-2024/bitcoin-explorer-backend/target/debug/deps/zerocopy-31f95507a864914b.d: /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs /Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs
+
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/lib.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macros.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/macro_util.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/post_monomorphization_compile_fail_tests.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/util.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/third_party/rust/layout.rs:
+/Users/aravind/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.34/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.34
