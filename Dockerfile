@@ -21,7 +21,7 @@ FROM nginx:alpine
 
 COPY --from=ui-builder /app/build /usr/share/nginx/html
 
-COPY --from=backend-builder /usr/src/app/target/release/your_binary_name /usr/bin/your_binary_name
+COPY --from=backend-builder /usr/src/app/target/release/backend /usr/bin/backend
 
 # Configure NGINX
 RUN echo 'daemon off;' >> /etc/nginx/nginx.conf
@@ -42,4 +42,4 @@ RUN echo 'server {\n\
 
 EXPOSE 80
 
-CMD ["sh", "-c", "/usr/bin/your_binary_name & nginx"]
+CMD ["sh", "-c", "/usr/bin/backend & nginx"]
