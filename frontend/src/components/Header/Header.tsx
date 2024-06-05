@@ -1,8 +1,8 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+// import { Route } from 'react-router-dom';
 import './Header.css'
 import { Link } from 'react-router-dom';
-import BlockList from '../BlockList/BlockList';
+// import BlockList from '../BlockList/BlockList';
 // import TransactionList from './components/TransactionList/TransactionList';
 // import Charts from './components/Charts/Charts';
 
